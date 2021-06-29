@@ -1,0 +1,193 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="triad.amazon.adorevm_kotlin"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CALL_PHONE" />
+11-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:6:5-69
+11-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:6:22-66
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:8:5-76
+13-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:8:22-73
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:9:5-79
+14-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:9:22-76
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:10:5-80
+15-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:10:22-77
+16    <uses-permission android:name="android.permission.VIBRATE" />
+16-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:11:5-66
+16-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:11:22-63
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:12:5-81
+17-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:12:22-78
+18    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+18-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:13:5-83
+18-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:13:22-80
+19    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+19-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:14:5-79
+19-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:14:22-76
+20    <uses-permission android:name="android.permission.CAMERA" />
+20-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:15:5-65
+20-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:15:22-62
+21    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+21-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:16:5-74
+21-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:16:22-72
+22
+23    <uses-feature android:name="android.hardware.camera.autofocus" />
+23-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:17:5-73
+23-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:17:22-70
+24    <uses-feature android:name="android.hardware.camera" />
+24-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:18:5-63
+24-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:18:22-60
+25    <uses-feature
+25-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:27:5-29:36
+26        android:name="android.hardware.camera.front"
+26-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:28:9-53
+27        android:required="false" />
+27-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:29:9-33
+28    <uses-feature
+28-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:35:5-37:36
+29        android:name="android.hardware.camera.flash"
+29-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:36:9-53
+30        android:required="false" />
+30-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:37:9-33
+31    <uses-feature
+31-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:38:5-40:36
+32        android:name="android.hardware.screen.landscape"
+32-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:39:9-57
+33        android:required="false" />
+33-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:40:9-33
+34    <uses-feature
+34-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:41:5-43:36
+35        android:name="android.hardware.wifi"
+35-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:42:9-45
+36        android:required="false" />
+36-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:43:9-33
+37    <uses-feature
+37-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\ea97a4d00c26cb6a9b2b3a2539062156\jetified-play-services-maps-17.0.1\AndroidManifest.xml:26:5-28:35
+38        android:glEsVersion="0x00020000"
+38-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\ea97a4d00c26cb6a9b2b3a2539062156\jetified-play-services-maps-17.0.1\AndroidManifest.xml:27:9-41
+39        android:required="true" />
+39-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\ea97a4d00c26cb6a9b2b3a2539062156\jetified-play-services-maps-17.0.1\AndroidManifest.xml:28:9-32
+40
+41    <queries>
+41-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\ea97a4d00c26cb6a9b2b3a2539062156\jetified-play-services-maps-17.0.1\AndroidManifest.xml:30:5-34:15
+42
+43        <!-- Needs to be explicitly declared on Android R+ -->
+44        <package android:name="com.google.android.apps.maps" />
+44-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\ea97a4d00c26cb6a9b2b3a2539062156\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:9-64
+44-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\ea97a4d00c26cb6a9b2b3a2539062156\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:18-61
+45    </queries>
+46
+47    <application
+47-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:21:5-46:19
+48        android:allowBackup="true"
+48-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:22:9-35
+49        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+49-->[androidx.core:core:1.5.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\8303caa4e5d6b7b04220c6cd65e7567c\core-1.5.0\AndroidManifest.xml:24:18-86
+50        android:debuggable="true"
+51        android:hardwareAccelerated="true"
+51-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:27:9-43
+52        android:icon="@mipmap/ic_launcher"
+52-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:23:9-43
+53        android:label="@string/app_name"
+53-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:24:9-41
+54        android:requestLegacyExternalStorage="true"
+54-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:28:9-52
+55        android:roundIcon="@mipmap/ic_launcher_round"
+55-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:26:9-54
+56        android:supportsRtl="true"
+56-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:29:9-35
+57        android:testOnly="true"
+58        android:theme="@style/AppTheme"
+58-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:30:9-40
+59        android:usesCleartextTraffic="true" >
+59-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:25:9-44
+60        <activity android:name="triad.amazon.adorevm_kotlin.Activitys.DashboadChartActivity" />
+60-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:31:9-105
+60-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:31:19-93
+61        <activity android:name="triad.amazon.adorevm_kotlin.Activitys.AddDemoUnitSecond" />
+61-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:32:9-92
+61-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:32:19-89
+62        <activity android:name="triad.amazon.adorevm_kotlin.Activitys.QuestionsActivity" />
+62-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:33:9-92
+62-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:33:19-89
+63        <activity android:name="triad.amazon.adorevm_kotlin.Activitys.AddDemoUnit" />
+63-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:34:9-86
+63-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:34:19-83
+64        <activity android:name="triad.amazon.adorevm_kotlin.Activitys.DemoUnit" />
+64-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:35:9-83
+64-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:35:19-80
+65        <activity android:name="triad.amazon.adorevm_kotlin.Activitys.ChangePassword" />
+65-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:36:9-89
+65-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:36:19-86
+66        <activity android:name="triad.amazon.adorevm_kotlin.Activitys.HomeActivity" />
+66-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:37:9-87
+66-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:37:19-84
+67        <activity android:name="triad.amazon.adorevm_kotlin.Activitys.LoginActivity" />
+67-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:38:9-88
+67-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:38:19-85
+68        <activity android:name="triad.amazon.adorevm_kotlin.Activitys.SplaceScreen" >
+68-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:39:9-45:20
+68-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:39:19-84
+69            <intent-filter>
+69-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:40:13-44:29
+70                <action android:name="android.intent.action.MAIN" />
+70-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:41:17-69
+70-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:41:25-66
+71
+72                <category android:name="android.intent.category.LAUNCHER" />
+72-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:43:17-77
+72-->C:\Users\sarje\Documents\Android Studio Projects\AdoreVM\app\src\main\AndroidManifest.xml:43:27-74
+73            </intent-filter>
+74        </activity>
+75        <activity
+75-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:46:9-52:63
+76            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+76-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:47:13-74
+77            android:clearTaskOnLaunch="true"
+77-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:48:13-45
+78            android:screenOrientation="sensorLandscape"
+78-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:49:13-56
+79            android:stateNotNeeded="true"
+79-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:50:13-42
+80            android:theme="@style/zxing_CaptureTheme"
+80-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:51:13-54
+81            android:windowSoftInputMode="stateAlwaysHidden" /> <!-- Needs to be explicitly declared on P+ -->
+81-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\6a2acb6bf59eddb465609d848707a0e4\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:52:13-60
+82        <uses-library
+82-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\ea97a4d00c26cb6a9b2b3a2539062156\jetified-play-services-maps-17.0.1\AndroidManifest.xml:39:9-41:40
+83            android:name="org.apache.http.legacy"
+83-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\ea97a4d00c26cb6a9b2b3a2539062156\jetified-play-services-maps-17.0.1\AndroidManifest.xml:40:13-50
+84            android:required="false" />
+84-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\ea97a4d00c26cb6a9b2b3a2539062156\jetified-play-services-maps-17.0.1\AndroidManifest.xml:41:13-37
+85
+86        <activity
+86-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\985e2cd0df079af27c1fbf80b30fc2e6\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+87            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+87-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\985e2cd0df079af27c1fbf80b30fc2e6\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+88            android:exported="false"
+88-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\985e2cd0df079af27c1fbf80b30fc2e6\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+89            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+89-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\985e2cd0df079af27c1fbf80b30fc2e6\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+90
+91        <meta-data
+91-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\a8a93caa7855c28ea1af38febe95b63e\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+92            android:name="com.google.android.gms.version"
+92-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\a8a93caa7855c28ea1af38febe95b63e\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+93            android:value="@integer/google_play_services_version" />
+93-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\sarje\.gradle\caches\transforms-2\files-2.1\a8a93caa7855c28ea1af38febe95b63e\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+94    </application>
+95
+96</manifest>

@@ -1,0 +1,99 @@
+<changelist name="Default_Changelist" date="1624964008874" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/shelved.patch" />
+  <option name="DESCRIPTION" value="Default Changelist" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="gradle/wrapper/gradle-wrapper.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/gradle-wrapper.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/ic_launcher.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/ic_launcher1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/ic_launcher2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/ic_launcher3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/ic_launcher4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/ic_launcher_round.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/ic_launcher_round1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/ic_launcher_round2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/ic_launcher_round3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/ic_launcher_round4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable/login_background.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/login_background.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable/mezon_logo.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/mezon_logo.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/font/montserrat_bold.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/montserrat_bold.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/font/montserrat_medium.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/montserrat_medium.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/font/montserrat_regular.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/montserrat_regular.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable/placeholder.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/placeholder.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable/splacelogo.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/splacelogo.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable/welcome_2_png.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/welcome_2_png.png" />
+  </binary>
+</changelist>
